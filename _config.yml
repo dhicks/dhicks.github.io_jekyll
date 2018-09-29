@@ -24,8 +24,10 @@ description: philosophy, data science, environmental policy
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - "ORCID with spaces": "https://orcid.org/0000-0001-7945-4416"
+  Research: "research"
+  Elsewhere:
+    - Github: "http://github.com/dhicks"
+    - "ORCID": "https://orcid.org/0000-0001-7945-4416"
     - "Publons": "https://publons.com/author/459918/daniel-j-hicks#profile"
 #  Author's home: "http://deanattali.com"
 
