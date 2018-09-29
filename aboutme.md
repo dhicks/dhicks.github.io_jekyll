@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a philosopher of science, data scientist, and science policy research.  My primary academic research focuses on the role of ethical and political values in science and public scientific controversies.  I'm also interested in bibliometrics, the use of statistics in scientific practice, and data ethics.  
+		
+In September 2017 I joined the Data Science Initiative at UC Davis as a Postdoctoral Researcher.  During my postdoc, I am developing a portfolio of projects related to "academic institutional effectiveness."  These projects will draw on a variety of datasets — student enrollment data, faculty data such as grant applications, library or wifi use data, as well external data such as transcripts of government meetings and publication metadata — to address concrete questions about the inner workings and social impact of UC Davis.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+From 2015 to 2017 I was a AAAS Science and Technology Policy Fellow.  I spent 2015-16 with the US Environmental Protection Agency's Chemical Safety for Sustainability program; and 2016-17 with the National Science Foundation, where I worked primarily with the National Robotics Initiative.  During my time in government, my major projects included portfolio analyses using bibliometrics data. 
+		
+From 2013 through 2015, I was a Postdoctoral Fellow at the Rotman Institue of Philosophy at Western University in London, Ontario.  I finished my PhD in philosophy at the University of Notre Dame in South Bend, Indiana, in April 2012.  During grad school I also taught for Johns Hopkins' CTY Summer program, which is an academic "summer camp" for 12-16-year-olds.  Before coming to Notre Dame, I did some graduate work in the math and philosophy departments at the University of Illinois, Chicago, and majored in math and political science at the University of Puget Sound in Tacoma, Washington.  While at Puget Sound, I was in the Honors Program (a Great Books program by another name) and participated in various debate, music, and undergraduate research activities.  I was born and grew up in Northern California. 
+		
+In 2013, I served on on the board of directors of Purple Porch Co-op, a local food co-operative in South Bend, Indiana.  I was the board's secretary and co-chaired two committees related to membership and community events.  During 2017 I was involved with a deep canvassing project with the Northern Virginia and Washington, DC, chapters of Showing Up for Racial Justice [SURJ].  I wrote a theory of change for deep canvassing on racial justice and helped pilot the collection and analysis of quantitative and qualitative data.
