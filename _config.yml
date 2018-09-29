@@ -27,8 +27,8 @@ navbar-links:
   Research: "research"
   Elsewhere:
     - Github: "http://github.com/dhicks"
-    - "ORCID": "https://orcid.org/0000-0001-7945-4416"
-    - "Publons": "https://publons.com/author/459918/daniel-j-hicks#profile"
+    - ORCID: "https://orcid.org/0000-0001-7945-4416"
+    - Publons: "https://publons.com/author/459918/daniel-j-hicks#profile"
     CV: "https://drive.google.com/open?id=0B6oYmzobonqoY3JPUlBWbUhrWGc"
 #  Author's home: "http://deanattali.com"
 
@@ -44,13 +44,13 @@ avatar: "/img/avatar-icon.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-#navbar-col: "#F5F5F5"
+navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-navbar-col: "#003366"
+#navbar-col: "#003366"
 #navbar-text-col: "#FFFFFF"
 #navbar-children-col: "#003366"
 page-col: "#FFFFFF"
