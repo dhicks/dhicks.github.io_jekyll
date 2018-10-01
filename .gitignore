@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+tumblr_migration
 
 # general
 .DS_Store
