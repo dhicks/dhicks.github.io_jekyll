@@ -3,8 +3,6 @@ layout: page
 title: About me
 ---
 
-**TODO: color of social media links**
-
 I am a philosopher of science, data scientist, and science policy researcher.  My primary academic research focuses on the role of ethical and political values in science and public scientific controversies.  I'm also interested in bibliometrics, the use of statistics in scientific practice, and data ethics.  As a data scientist, much of my work involves network analysis and multilevel generalized linear regression, including Bayesian models in Stan.  I have experience with topic models and word embeddings for text data, as well as spatial Durbin models and other methods for spatial data.  I work primarily in R, but also have some experience with Python.  
 
 My preferred pronouns are they/them/their, but he/him/his are also acceptable.  
