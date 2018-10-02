@@ -50,6 +50,11 @@ stackoverflow:
   name: "StackOverflow"
   baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
+  
+philosophyse:
+  name: "Philosophy SE"
+  baseURL: "https://philosophy.stackexchange.com/users/"
+  icon: "fa-stack-overflow"
 
 snapchat:
   name: "Snapchat"
