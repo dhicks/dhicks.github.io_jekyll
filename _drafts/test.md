@@ -37,6 +37,6 @@ ggplot(dataf, aes(x, y)) +
 ## `geom_smooth()` using method = 'loess' and formula 'y ~ x'
 ```
 
-![]({{site_url}}img/blog_images/{{site_url}}/img/blog_images/test_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![]({{site_url}}/img/blog_images/test_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
 
