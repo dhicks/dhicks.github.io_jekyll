@@ -1,0 +1,32 @@
+---
+style: post
+title: RMarkdown test post
+output:
+    html_document:
+        keep_md: true
+---
+
+```{r, include = FALSE}
+library(tidyverse)
+```
+
+Some text 
+
+```{r}
+1+1
+```
+
+Other text
+
+```{r}
+set.seed(42)
+dataf = tibble(x = rnorm(200, 0, 1), 
+               eps = rnorm(200, 0, .1), 
+               y = 3 + 2*x + eps)
+
+ggplot(dataf, aes(x, y)) +
+    geom_point() +
+    geom_smooth()
+```
+
+
