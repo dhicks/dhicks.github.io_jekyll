@@ -1,4 +1,5 @@
 #!/bin/bash
+## <https://jfiksel.github.io/2017-01-25-hello-world/>
 echo Which file do you want to post?
 read -e -p "Post:" file
 file="${file}.Rmd"
