@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Adversarial Method: Where\'s Moulton?"
-tags: [adversarial,birth,data,reasoning,rights]
+
+tags: [adversarial,data,reasoning,rights]
 ---
 
 
@@ -34,4 +35,5 @@ Note that this critique goes deeper than Saul's virtue argument (the Adversarial
 ::: {#footer}
 [ May 28th, 2013 11:34am ]{#timestamp} [metaphilosophy]{.tag}
 :::
+
 

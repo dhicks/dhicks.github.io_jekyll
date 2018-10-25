@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Funding Effect and Noxious Markets: Weak Agency"
-tags: [developing,funding,market,markets,medicine,satz,scientist]
+
+tags: [developing,funding,market,markets,satz]
 ---
 
 
@@ -69,4 +70,5 @@ References
 ::: {#footer}
 [ February 25th, 2013 10:27am ]{#timestamp} [food]{.tag} [(philosophy of) science]{.tag} [economics]{.tag}
 :::
+
 

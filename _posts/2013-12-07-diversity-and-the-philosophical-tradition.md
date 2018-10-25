@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diversity and \"the\" Philosophical Tradition"
+
 tags: [students]
 ---
 
@@ -36,4 +37,5 @@ Third, and even if without doing the first two, we can **incorporate contemporar
 ::: {#footer}
 [ December 7th, 2013 11:03am ]{#timestamp} [metaphilosophy]{.tag} [teaching]{.tag}
 :::
+
 

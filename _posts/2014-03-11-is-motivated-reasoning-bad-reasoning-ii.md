@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is Motivated Reasoning Bad Reasoning? II"
+
 tags: [hypothesis,motivated,reasoning]
 ---
 
@@ -70,4 +71,5 @@ So motivated reasoning is not necessarily bad reasoning. Because of ambiguity an
 ::: {#footer}
 [ March 11th, 2014 10:01am ]{#timestamp} [(philosophy of) science]{.tag} [science and values]{.tag} [climate change]{.tag}
 :::
+
 

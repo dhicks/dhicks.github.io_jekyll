@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Is the Finnish Model Irrelevant to North America?"
-tags: [factors,finnish,policy]
+
+tags: [factors,finnish]
 ---
 
 
@@ -41,4 +42,5 @@ Pessimistically, Sahlberg's last point suggests a deep cultural difference betwe
 ::: {#footer}
 [ March 20th, 2014 10:13am ]{#timestamp} [(philosophy of) science]{.tag} [education]{.tag} [finnish model]{.tag}
 :::
+
 

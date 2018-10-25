@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Work and Hackwork"
+
 tags: [automated,love,moocs]
 ---
 
@@ -39,4 +40,5 @@ This does not imply that we should abandon our love of education. The alternativ
 ::: {#footer}
 [ October 13th, 2014 10:17am ]{#timestamp} [virtue ethics]{.tag} [neoliberalism]{.tag} [higher ed]{.tag}
 :::
+
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Industry-funded research and publishing independence"
+
 tags: [funding]
 ---
 
@@ -33,4 +34,5 @@ I see at least two ways for researchers to respond to this epistemic challenge. 
 ::: {#footer}
 [ August 19th, 2015 10:36am ]{#timestamp} [(philosophy of) science]{.tag} [science and values]{.tag}
 :::
+
 

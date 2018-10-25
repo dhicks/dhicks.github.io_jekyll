@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Agroecological Argument for Eating Meat"
-tags: [animal,data,eating,meat,students,vegetarianism]
+
+tags: [data,meat,students,vegetarianism]
 ---
 
 
@@ -37,4 +38,5 @@ So this, I think, is the important limitation of the agroecological argument. Th
 ::: {#footer}
 [ April 21st, 2012 11:00am ]{#timestamp} [food]{.tag}
 :::
+
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sexism, Philosophy, and the Reciprocity of Virtue"
+
 tags: [virtues]
 ---
 
@@ -36,4 +37,5 @@ This response has several important implications. One is that **sexism is an ins
 ::: {#footer}
 [ December 2nd, 2013 2:43pm ]{#timestamp} [metaphilosophy]{.tag} [higher ed]{.tag}
 :::
+
 
