@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A care ethics for data science
+tags: [data,scientist,students]
 ---
 
 [Care ethics](https://plato.stanford.edu/entries/feminism-ethics/#FemAppEth) is an approach to ethical theorizing and reflection that emphasizes personal relations rather than abstract principles or rules.  For example, [ethics codes](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1#---244-587) and [human subjects research regulations](https://en.wikipedia.org/wiki/Common_Rule) take a rule-based approach to identifying and mitigating ethical problems.  On a care ethics approach, we start by thinking about whose lives are affected by our actions, and whether our actions make for health or damaged relationships to those people.  
@@ -44,4 +45,5 @@ These relationships become more difficult to reflect upon as they become more di
 In this post, I have identified a series of relationships surrounding a data scientist:  data sources; data collectors; data curators; fellow data scientists; managers, systems users, and other decisionmakers; and data subjects.  I have also suggested some questions that can be used to start reflection on these relationships.  Ethicists and other theorists could use these initial questions to describe the features that make these different relationships health or damaged.  Care ethics also encourages us to think about the social context in which our relationships are formed and either sustained or damaged.  This perspective might be especially important for thinking through the indirect relationships that I have identified here, such as between data scientists and data subjects.  
 
 Practicing data scientists — and students and others training into data science — could use this post as a starting point for reflection on their own practice.  What are the particular relationships of your data science activity?  How would you describe those relationships — as healthy, or damaged, or in some other terms?  How would the people on the other side of those relationships describe them?  How do you know how they would describe them?  If you — or they — would describe the relationship as damaged, or harmful, or exploitative, what steps can you take to repair the relationship?  
+
 

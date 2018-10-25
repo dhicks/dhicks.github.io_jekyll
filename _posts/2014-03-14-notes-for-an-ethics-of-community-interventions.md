@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes for an Ethics of Community Interventions"
+tags: [local,punishment,rights,students,wrongdoer]
 ---
 
 
@@ -57,3 +58,4 @@ Are there other aims for community interventions that I've overlooked? Other que
 ::: {#footer}
 [ March 14th, 2014 10:01am ]{#timestamp} [ethics]{.tag} [metaphilosophy]{.tag}
 :::
+

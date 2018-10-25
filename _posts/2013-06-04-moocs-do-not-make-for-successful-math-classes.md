@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MOOCs do not Make for Successful Math Classes"
+tags: [automated,data,instructor,math,moocs,students]
 ---
 
 
@@ -60,3 +61,4 @@ It does not seem to me that there is any way for MOOCs to avoid this problem. If
 ::: {#footer}
 [ June 4th, 2013 12:37pm ]{#timestamp} [higher education]{.tag} [teaching]{.tag} [mooc]{.tag}
 :::
+

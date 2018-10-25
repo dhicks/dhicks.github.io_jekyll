@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When \"Feeding the World\" Doesn\'t Mean \"Feeding the World\""
+tags: [funding,gm,local,market,markets,regime]
 ---
 
 
@@ -23,3 +24,4 @@ Note that all of these questions concern the effectiveness of GM crops --- but o
 ::: {#footer}
 [ December 8th, 2014 8:59am ]{#timestamp} [science and values]{.tag} [food regimes]{.tag} [(philosophy of) science]{.tag} [gmo controversy]{.tag}
 :::
+

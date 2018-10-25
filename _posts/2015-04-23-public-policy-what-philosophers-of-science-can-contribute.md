@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Public Policy:  What Philosophers of Science can Contribute"
+tags: [data,developing,policy,scientist,students]
 ---
 
 
@@ -42,3 +43,4 @@ Outlined like this, I'm actually rather surprised that no philosophers of scienc
 ::: {#footer}
 [ April 23rd, 2015 11:59am ]{#timestamp} [philosophy of science]{.tag} [science policy]{.tag} [AAAS]{.tag}
 :::
+

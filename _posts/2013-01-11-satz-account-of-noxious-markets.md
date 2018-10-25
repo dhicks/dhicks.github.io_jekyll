@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Satz\' Account of Noxious Markets"
+tags: [citations,market,markets,rights,satz]
 ---
 
 
@@ -133,3 +134,4 @@ References
 ::: {#footer}
 [ January 11th, 2013 11:48am ]{#timestamp} [gender/sex]{.tag} [economics]{.tag}
 :::
+

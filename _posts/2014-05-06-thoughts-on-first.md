@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Thoughts on FIRST"
+tags: [funding]
 ---
 
 
@@ -43,3 +44,4 @@ So the accountability proposal is disingenuous, since it does nothing that will 
 ::: {#footer}
 [ May 6th, 2014 6:13pm ]{#timestamp} [science and values]{.tag} [(philosophy of) science]{.tag}
 :::
+

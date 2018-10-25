@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Predators and Animal Ethics"
+tags: [animal,compassion,eating,meat,predators,rights,vegetarianism,virtues]
 ---
 
 
@@ -92,3 +93,4 @@ I can see how this kind of treatment treats the animal with *dignity*, and maybe
 ::: {#footer}
 [ January 13th, 2013 1:14pm ]{#timestamp} [food]{.tag}
 :::
+

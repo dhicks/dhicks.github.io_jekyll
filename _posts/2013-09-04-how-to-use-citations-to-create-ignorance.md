@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Use Citations to Create Ignorance"
+tags: [citation,citations,data,gm,gmof,maize,policy,scientist]
 ---
 
 
@@ -50,3 +51,4 @@ These two features together --- the appearance of trustworthiness and the diffic
 ::: {#footer}
 [ September 4th, 2013 11:02am ]{#timestamp} [(philosophy of) science]{.tag} [food]{.tag} [gmo controversy]{.tag}
 :::
+

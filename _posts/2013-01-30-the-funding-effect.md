@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Funding Effect"
+tags: [animal,data,funding,gm,hypothesis,local,market,markets,medicine,rights,satz]
 ---
 
 
@@ -64,3 +65,4 @@ References
 ::: {#footer}
 [ January 30th, 2013 9:07am ]{#timestamp} [(philosophy of) science]{.tag} [economics]{.tag}
 :::
+

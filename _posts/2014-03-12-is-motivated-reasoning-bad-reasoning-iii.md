@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is Motivated Reasoning Bad Reasoning? III"
+tags: [critic,hypothesis,motivated,policy,reasoning,scientist]
 ---
 
 
@@ -68,3 +69,4 @@ Furthermore --- and this part is even more important --- the scientists recogniz
 ::: {#footer}
 [ March 12th, 2014 10:00am ]{#timestamp} [(philosophy of) science]{.tag} [science and values]{.tag} [climate change]{.tag}
 :::
+

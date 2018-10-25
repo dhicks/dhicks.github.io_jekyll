@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Two Conceptions of Human Nature"
+tags: [market,rights]
 ---
 
 
@@ -56,3 +57,4 @@ If this is right, the basic disagreement is best characterized as between an *se
 ::: {#footer}
 [ July 23rd, 2012 11:47pm ]{#timestamp} [politics]{.tag}
 :::
+

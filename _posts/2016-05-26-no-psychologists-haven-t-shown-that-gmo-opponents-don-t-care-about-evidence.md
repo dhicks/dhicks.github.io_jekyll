@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No, psychologists haven't shown that GMO opponents don\'t care about evidence"
+tags: [data,eating,gm,policy,reasoning]
 ---
 
 
@@ -52,3 +53,4 @@ In the conclusion, the authors briefly report some preliminary findings from a "
 ::: {#footer}
 [ May 26th, 2016 11:52am ]{#timestamp} [gmo controversy]{.tag} [science and values]{.tag}
 :::
+
