@@ -29,22 +29,25 @@ info_df = tokens_df %>%
               ndH = log10(n)*delta_H)
 
 ## Select high-information terms and ID them in posts ----
-vocab = info_df %>%
-    top_n(nrow(dataf), ndH)
+vocab =  top_n(info_df, nrow(dataf), ndH)
 
-tags_df = vocab %>%
-    select(-n) %>%
-    inner_join(tokens_df, by = 'token') %>%
+tags_df = tokens_df %>%
+    filter(token %in% vocab$token) %>%
     count(path, post_id, token) %>%
     group_by(path, post_id) %>%
     summarize(tags = list(token)) %>%
     mutate(tags_str = map_chr(tags, str_c, collapse = ','), 
-           tags_str = str_c('tags: [', tags_str, ']'))
+           tags_str = str_c('tags: [', tags_str, ']')) %>%
+    ungroup()
 
 ## Insert tags into post and write to disk
 right_join(dataf, tags_df) %>%
     separate(raw_text, into = c('null', 'header', 'body'), 
              sep = '---', extra = 'merge') %>% 
+    ## Remove old tags
+    mutate(header = str_replace(header, 
+                                'tags: \\[[^\\]]+\\]', 
+                                '')) %>% 
     mutate(combined = str_c('---', 
                             header, 
                             tags_str, '\n',
