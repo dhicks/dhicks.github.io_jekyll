@@ -2,6 +2,9 @@
 layout: post
 title: "Is Motivated Reasoning Bad Reasoning? I"
 
+
+
+
 tags: [data,gm,motivated,reasoning]
 ---
 
@@ -39,5 +42,8 @@ I don't think this is necessarily the case. Specifically, I don't think that mot
 ::: {#footer}
 [ March 10th, 2014 10:01am ]{#timestamp} [(philosophy of) science]{.tag} [science and values]{.tag} [climate change]{.tag}
 :::
+
+
+
 
 

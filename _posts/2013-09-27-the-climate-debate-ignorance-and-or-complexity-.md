@@ -2,6 +2,9 @@
 layout: post
 title: "The Climate Debate: Ignorance, and/or Complexity?"
 
+
+
+
 tags: [data,factors]
 ---
 
@@ -55,5 +58,8 @@ Climate scientists and activists give good responses to these arguments on the t
 ::: {#footer}
 [ September 27th, 2013 10:59am ]{#timestamp} [(philosophy of) science]{.tag} [climate science]{.tag}
 :::
+
+
+
 
 

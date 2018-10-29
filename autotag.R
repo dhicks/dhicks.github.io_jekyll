@@ -9,11 +9,19 @@ post_files = list.files(post_folder) %>%
 dataf = tibble(path = post_files) %>%
     mutate(post_id = row_number()) %>%
     rowwise() %>%
-    mutate(raw_text = read_file(path)) %>%
+    mutate(raw_text = read_file(path), 
+           ## Remove fenced and math blocks
+           no_blocks_text = {raw_text %>%
+                   ## stringr can't match across newlines(?)
+                   str_remove_all('\n') %>%  
+                   str_remove_all('```(?!```).+?```') %>%
+                   str_remove_all('\\$\\$[^\\$]+\\$\\$')}) %>%
     ungroup()
+# cat(dataf$raw_text[41])
+# cat(dataf$no_blocks_text[41])
 
 ## Parse and calculate information gain ----
-tokens_df = unnest_tokens(dataf, token, raw_text)
+tokens_df = unnest_tokens(dataf, token, no_blocks_text)
 
 baseline = log2(nrow(dataf))
 

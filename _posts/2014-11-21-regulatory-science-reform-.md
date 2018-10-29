@@ -2,7 +2,10 @@
 layout: post
 title: "Regulatory Science Reform?"
 
-tags: [data]
+
+
+
+tags: [data,policy]
 ---
 
 
@@ -55,5 +58,8 @@ Instead, HR 4012 will be much more effective at obstructing the regulatory proce
 ::: {#footer}
 [ November 21st, 2014 2:12pm ]{#timestamp} [(philosophy of) science]{.tag} [science and values]{.tag} [science for policy]{.tag}
 :::
+
+
+
 
 

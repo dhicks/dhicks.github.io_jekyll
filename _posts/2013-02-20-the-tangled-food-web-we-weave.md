@@ -2,7 +2,10 @@
 layout: post
 title: "The Tangled (Food) Web We Weave"
 
-tags: [meat,students]
+
+
+
+tags: [birth,meat,students]
 ---
 
 
@@ -24,5 +27,8 @@ Finally, these connections depend on the particular cultural, economic, and tech
 ::: {#footer}
 [ February 20th, 2013 12:12pm ]{#timestamp} [economics]{.tag} [food]{.tag} [(philosophy of) science]{.tag}
 :::
+
+
+
 
 

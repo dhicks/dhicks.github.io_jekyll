@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Friedersdorf: The Sex-Friendly Case Against Free Birth Control, part II"
-tags: [birth,medicine]
+
+
+
+tags: [birth,medicine,preventative]
 ---
 
 
@@ -43,4 +46,7 @@ All four of these options have something to say in their favor, but none is clea
 ::: {#footer}
 [ March 14th, 2012 1:04pm ]{#timestamp} [gender/sex]{.tag}
 :::
+
+
+
 

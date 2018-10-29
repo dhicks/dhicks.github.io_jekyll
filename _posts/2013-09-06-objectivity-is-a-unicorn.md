@@ -2,7 +2,10 @@
 layout: post
 title: "Objectivity is a Unicorn"
 
-tags: [citations,gm,local,maize]
+
+
+
+tags: [citations,gm,local,maize,policy]
 ---
 
 
@@ -56,5 +59,8 @@ In this post, I focused on a single, seemingly-simple, factual question: *Is GM 
 ::: {#footer}
 [ September 6th, 2013 1:20pm ]{#timestamp} [(philosophy of) science]{.tag} [food]{.tag} [gmo controversy]{.tag}
 :::
+
+
+
 
 

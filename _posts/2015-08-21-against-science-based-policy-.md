@@ -2,7 +2,10 @@
 layout: post
 title: "Against 'Science-Based Policy'"
 
-tags: [h,hypothesis]
+
+
+
+tags: [hypothesis,policy]
 ---
 
 
@@ -32,5 +35,8 @@ What language should we use instead? I'd suggest "science-informed policy." This
 ::: {#footer}
 [ August 21st, 2015 5:55pm ]{#timestamp} [science for policy]{.tag} [science and values]{.tag}
 :::
+
+
+
 
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Friedersdorf: The Sex-Friendly Case Against Free Birth Control, part I"
+
+
+
 tags: [birth,policy]
 ---
 
@@ -35,4 +38,7 @@ It's a decent point.  But I have two responses to it.  First, I suggest that t
 ::: {#footer}
 [ March 14th, 2012 1:02pm ]{#timestamp} [gender/sex]{.tag}
 :::
+
+
+
 

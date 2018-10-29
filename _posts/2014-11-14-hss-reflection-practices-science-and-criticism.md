@@ -2,6 +2,9 @@
 layout: post
 title: "HSS Reflection: Practices, Science, and Criticism"
 
+
+
+
 tags: [data,motivated,reasoning]
 ---
 
@@ -41,5 +44,8 @@ So I think this is what I was trying to get at with the language of "realistic" 
 ::: {#footer}
 [ November 14th, 2014 1:43pm ]{#timestamp} [hsspsa2014]{.tag} [(philosophy of) science]{.tag} [scientific practice]{.tag} [feminist science]{.tag} [science and values]{.tag} [commodified science]{.tag}
 :::
+
+
+
 
 

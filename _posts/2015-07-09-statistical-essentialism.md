@@ -2,6 +2,9 @@
 layout: post
 title: "Statistical essentialism"
 
+
+
+
 tags: [data]
 ---
 
@@ -38,5 +41,8 @@ One way to resist statistical essentialism is to think in focus on distributions
 ::: {#footer}
 [ July 9th, 2015 2:02pm ]{#timestamp} [statistics]{.tag} [logical fallacies]{.tag}
 :::
+
+
+
 
 

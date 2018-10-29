@@ -2,6 +2,9 @@
 layout: post
 title: "Local Food, Global Justice"
 
+
+
+
 tags: [developing,local]
 ---
 
@@ -37,5 +40,8 @@ All together, I think this offers a charitable challenge to Mark's argument. The
 ::: {#footer}
 [ April 14th, 2013 11:02am ]{#timestamp} [food]{.tag} [economics]{.tag}
 :::
+
+
+
 
 

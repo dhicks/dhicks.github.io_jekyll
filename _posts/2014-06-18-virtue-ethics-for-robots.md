@@ -2,6 +2,9 @@
 layout: post
 title: "Virtue Ethics for Robots"
 
+
+
+
 tags: [automated,creativity,data,rights,robot]
 ---
 
@@ -51,5 +54,8 @@ My arguments for these concerns draw on the popular image of robots and other au
 ::: {#footer}
 [ June 18th, 2014 11:46am ]{#timestamp} [robot ethics]{.tag} [virtue ethics]{.tag} [philosophy of technology]{.tag}
 :::
+
+
+
 
 

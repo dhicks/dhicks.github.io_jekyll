@@ -2,6 +2,9 @@
 layout: post
 title: "The History of Philosophy as a Social Network"
 
+
+
+
 tags: [data,math,moocs]
 ---
 
@@ -60,5 +63,8 @@ At this point, it seems that we must take the purposes of the rankings into acco
 ::: {#footer}
 [ July 21st, 2013 11:12am ]{#timestamp}
 :::
+
+
+
 
 

@@ -2,6 +2,9 @@
 layout: post
 title: "Problems with Trolley Problems"
 
+
+
+
 tags: [reasoning]
 ---
 
@@ -48,5 +51,8 @@ Infeasible
 ::: {#footer}
 [ December 27th, 2017 1:56pm ]{#timestamp}
 :::
+
+
+
 
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Feminism and Science: Frenemies?"
+
+
+
 tags: [medicine,scientist]
 ---
 
@@ -38,4 +41,7 @@ Here is where philosophers can make our specific kinds of contributions. First, 
 ::: {#footer}
 [ November 26th, 2014 10:45am ]{#timestamp} [science and values]{.tag} [philosophy of science]{.tag} [feminism]{.tag} [feminism and science]{.tag}
 :::
+
+
+
 
