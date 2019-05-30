@@ -5,9 +5,11 @@ title: About me
 
 I am a philosopher of science, data scientist, and science policy researcher.  My primary academic research focuses on the role of ethical and political values in science and public scientific controversies.  I'm also interested in bibliometrics, the use of statistics in scientific practice, and data ethics.  As a data scientist, much of my work involves network analysis and multilevel generalized linear regression, including Bayesian models in Stan.  I have experience with topic models and word embeddings for text data, as well as spatial Durbin models and other methods for spatial data.  I work primarily in R, but also have some experience with Python.  
 
-My preferred pronouns are they/them/their, but he/him/his are also acceptable.  
+My preferred pronouns are they/them/their.  
 
 <hr>
+
+Starting in Fall 2019 I will be an assistant professor in Cognitive and Information Sciences at UC Merced.  
 		
 In September 2017 I joined the Data Science Initiative at UC Davis as a Postdoctoral Researcher.  During my postdoc, I am developing a portfolio of projects related to "academic institutional effectiveness."  These projects will draw on a variety of datasets — student enrollment data, faculty data such as grant applications, library or wifi use data, as well external data such as transcripts of government meetings and publication metadata — to address concrete questions about the inner workings and social impact of UC Davis.  
 
