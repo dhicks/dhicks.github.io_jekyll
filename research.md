@@ -5,6 +5,8 @@ title: My research
 
 Thanks to a series of academic and policy opportunities, I've been able to work on a variety of multidisciplinary research topics, using a variety of qualitative and quantitative methods.  This page briefly describes some of my major research interests, including links to relevant publications.  A full list of papers and other research outputs can be found on [my ORCID profile](https://orcid.org/0000-0001-7945-4416).  
 
+Last updated 27 June 2019. 
+
 
 # Academic institutional effectiveness #
 
@@ -16,24 +18,23 @@ Conceptual frameworks from philosophy of science, science and technology studies
 - What conceptual frameworks can be used to understand the academic politics of research metrics?  
 - How can article metadata and text mining methods be used to uncover forgotten contributions of women to philosophy of science?  
 
-Other current projects in this area include collaborations with the UC Davis Office of the Associate Vice Chancellor for Academic Diversity and the Academic Placement Data and Analysis [APDA] project at UC Merced.  
-
 ### Selected publications ###
 
+- Hicks, Daniel J., David A. Coil, Carl G. Stahmer, and Jonathan A. Eisen. 2019. “Network Analysis to Evaluate the Impact of Research Funding on Research Community Consolidation.” PLOS ONE 14 (6): e0218273. <https://doi.org/10.1371/journal.pone.0218273>. 
 - Hicks, Daniel J., Carl Stahmer, and MacKenzie Smith. 2018. “Impacting Capabilities: A Conceptual Framework for the Social Value of Research.” Frontiers in Research Metrics and Analytics 3. <https://doi.org/10.3389/frma.2018.00024>. 
 - Hicks, Daniel. 2017. “The Underproduction of Philosophy PhDs.” Daily Nous. December 18, 2017. <http://dailynous.com/2017/12/18/underproduction-philosophy-phds-daniel-hicks/>.
-- Hicks, Daniel J. 2016. “Bibliometrics for Social Validation.” PLOS ONE 11 (12): e0168597. <https://doi.org/10.1371/journal.pone.0168597>.
 
 
 
 # Public scientific controversies #
 
-Public scientific controversies are my entry point into discussions of science policy and the role of expertise in democracy.  Traditional models of such controversies focus on gaps between "scientists" and "the public," and explain these gaps in terms of public ignorance and irrationality.  In contrast, my models incorporate ideas of power, structural oppression, and democratic accountability, in line with my background in feminist philosophy of science and political philosophy.  
+Public scientific controversies are my entry point into discussions of science policy and the role of expertise in democracy.  Traditional models of such controversies focus on gaps between "scientists" and "the public," and explain these gaps in terms of public ignorance and irrationality.  In contrast, my approach to these controversies are based on ideas of power, structural oppression, and democratic accountability, in line with my background in feminist philosophy of science and political philosophy.  
 
-I am many different specific issues that fall under the heading of "public scientific controversies."  Some of my current work in this area addresses ideals of transparency and fairness in algorithmic injustice (robotics and artificial intelligence), as well as controversies over obesity and pesticide regulation.  
+I am interested in many different specific issues that fall under the heading of "public scientific controversies."  Some of my current work in this area addresses ideals of transparency and fairness in algorithmic injustice, as well as controversies over obesity and pesticide regulation.  My publications in this area are often written for policy audiences and published in venues beyond academic philosophy.  
 
 ### Selected publications ###
 
+- Fernández Pinto, Manuela, and Daniel J. Hicks. 2019. “Legitimizing Values in Regulatory Science.” Environmental Health Perspectives 127 (3): 035001. <https://doi.org/10.1289/EHP3317>.
 - Hicks, D. J. 2018. “The Safety of Autonomous Vehicles: Lessons from Philosophy of Science.” IEEE Technology and Society Magazine 37 (1): 62–69. <https://doi.org/10.1109/MTS.2018.2795123>.
 - Hicks, Daniel J. 2017. “Scientific Controversies as Proxy Politics.” Issues in Science and Technology, January 2017. <http://issues.org/33-2/scientific-controversies-as-proxy-politics/>
 - GMO project
@@ -54,5 +55,6 @@ Due to the nature of my employment over the last several years, I've been unable
 
 
 
-
+<!--
 Last updated {{ site.time | date: '%B %e, %Y' }}
+-->
