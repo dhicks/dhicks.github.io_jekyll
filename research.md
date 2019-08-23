@@ -47,7 +47,7 @@ I am interested in many different specific issues that fall under the heading of
 
 This is the most disciplinary or narrowly philosophical topic among my major research interests.  My dissertation (Notre Dame 2012) developed Alasdair MacIntyre's conception of a social practice, informed by feminist philosophy, and applied this conception to the then-current debate over the ideal of value-free science.  Since finishing my dissertation, I've become known for defending a distinctively Aristotelean version of the "aims approach" to values in science.  
 
-Due to the nature of my employment over the last several years, I've been unable to devote much time to narrowly philosophical work.  I have been able to give presentations in which I apply and defend my version of the "aims approach" to topics such as academic freedom and "dangerous ideas," open science, and objectivity.  Given the opportunity, I would like to spend some time writing up and publishing these talks.  
+Due to the nature of my employment over the last several years, I've been unable to devote much time to narrowly philosophical work.  I have been able to give presentations in which I apply and defend my version of the "aims approach" to topics such as academic freedom and "dangerous ideas," open science, and objectivity.  I intend to write up and publish these talks over the next few years.  
 
 - Hicks, Daniel J., and Thomas A. Stapleford. 2016. “The Virtues of Scientific Practice: MacIntyre, Virtue Ethics, and the Historiography of Science.” Isis 107 (3): 449–72. <https://doi.org/10.1086/688346>.
 - Hicks, Daniel J. 2014. “A New Direction for Science and Values.” Synthese 191 (14): 3271–95. <https://doi.org/10.1007/s11229-014-0447-9>.
