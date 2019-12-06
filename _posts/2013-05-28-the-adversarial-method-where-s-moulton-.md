@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Adversarial Method: Where\'s Moulton?"
+title: "The Adversarial Method: Where's Moulton?"
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When \"Feeding the World\" Doesn\'t Mean \"Feeding the World\""
+title: "When \"Feeding the World\" Doesn't Mean \"Feeding the World\""
 
 
 

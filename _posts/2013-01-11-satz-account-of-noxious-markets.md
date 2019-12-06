@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Satz\' Account of Noxious Markets"
+title: "Satz' Account of Noxious Markets"
 
 
 

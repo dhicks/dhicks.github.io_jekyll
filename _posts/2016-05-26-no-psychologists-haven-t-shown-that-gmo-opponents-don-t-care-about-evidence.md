@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No, psychologists haven't shown that GMO opponents don\'t care about evidence"
+title: "No, psychologists haven't shown that GMO opponents don't care about evidence"
 
 
 
