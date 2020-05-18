@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Replication, reproducibility, and Strengthening Transparency"
+---
+
+[*Strengthening Transparency in Regulatory Science*](https://www.epa.gov/osa/strengthening-transparency-regulatory-science) is an open science rule that the US Environmental Protection Agency proposed in April 2018.  If adopted, the rule would restrict the scientific information that EPA uses in policymaking, requiring that the data and analysis code be available either publicly or in a secure data enclave for independent reanalysis.  Strengthening Transparency is non-accidentally similar to the [HONEST Act](https://science.sciencemag.org/content/356/6342/989) and [Secret Science Act](http://blogs.edf.org/climate411/2017/02/07/less-science-more-cost-why-the-misguided-secret-science-bill-is-bad-policy/), which were attempts by Republicans in previous congresses to introduce the same requirement.  Since at least the 1990s, industry and its allies have attempted to argue that environmental public health research can't be trusted unless "we" can inspect the "raw data."  
+
+Strengthening Transparency tries to justify itself with explicit appeals to the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) that's been unfolding in, primarily, social psychology.  So the rule has a nice convergence between my ongoing research on public scientific controversies and my side interest in the replication crisis.  
+
+In March of this year, EPA published a Supplemental Notice of Proposed Rulemaking, which added definitions for several of the key terms and opened another round of public comments.  I submitted a comment based on the distinction between reproducibility (can we run the same data through the same code to get quantitatively identical output) and replicability (can we run a similar experiment to get new data that support qualitatively similar conclusions).  I argued that open science can promote reproducibility, but not replicability; while Strengthening Transparency is nominally based on concerns about replicability.  So the proposed rule can't do anything about the problem it's supposed to address.  
+
+While I've been following the replication crisis — and even taught an undergraduate course on it last fall — the focus of my research has really been on more public, policy-relevant controversies.  So there's a good chance my comment is the only thing I'll ever write on the replication crisis.  You can read it here:  <https://drive.google.com/open?id=1Ze4EgDgtQJCQoW1_p4ebuDGOgtX2oi79>
