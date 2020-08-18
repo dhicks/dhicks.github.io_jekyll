@@ -7,7 +7,7 @@ Thanks to a series of academic and policy opportunities, I've been able to work 
 
 Last updated 27 June 2019. 
 
-[Information for potential graduate students]({% link grad_students.md %})
+[Information for potential graduate students]({% link students/grad_students.md %})
 
 
 # Academic institutional effectiveness #

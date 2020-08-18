@@ -25,6 +25,7 @@ description: philosophy of science, data science, environmental policy
 navbar-links:
   About Me: "aboutme"
   Research: "research"
+  For Students: "students"
   Elsewhere:
     - Github: "http://github.com/dhicks"
     - ORCID: "https://orcid.org/0000-0001-7945-4416"
