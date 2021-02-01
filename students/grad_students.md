@@ -7,7 +7,8 @@ I am a faculty member of the graduate group in Cognitive and Information Science
 
 Potential graduate students considering working with me should keep in mind that I am part of a graduate program in cognitive and information sciences, not philosophy; and, at the same time, I have a limited background in and connections to cognitive science.  I would recommend students have another, co-equal advisor who works more directly in cognitive science.  
 
-[links to the application form and deadlines here someday]
+| [Information on the grad programs here](https://cogsci.ucmerced.edu/graduate-program)
+| [Apply to the grad programs here](https://graduatedivision.ucmerced.edu/prospective-students/apply-now)
 
 Here are some examples of topics that connect my research interests with cognitive science:  
 
@@ -28,6 +29,7 @@ Here are some examples of topics that connect my research interests with cogniti
 	- Epistemic and pragmatic aims of cognitive science
 	- Relationship between cognitive science and other fields:  psychology, computer science, anthropology; but also biology, sociology, economics, physics
 
+<!-- 
 - Computational social science methods
 	- Sources of data
 		- administrative data, public records
@@ -35,6 +37,7 @@ Here are some examples of topics that connect my research interests with cogniti
 	- Analysis methods
 		- network analysis
 		- text analysis
+ -->
 
 Written hastily on 12 February 2020.
 
