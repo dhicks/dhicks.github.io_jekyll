@@ -11,7 +11,7 @@ This page is home to a bunch of resources for my students, both undergrad and gr
 
 [If the bullet points aren't links, I haven't written the page yet]
 
-- [A guide to academic degrees and titles]({% link students/degrees_and_titles.md %})
+- A guide to academic degrees and titles
 - Interacting with your professors
 - Requesting a letter of recommendation
 - So you're thinking about grad school

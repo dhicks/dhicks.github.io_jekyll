@@ -3,41 +3,16 @@ layout: page
 title: Information for potential graduate students
 ---
 
-I am a faculty member of the graduate group in Cognitive and Information Sciences at UC Merced.  Students interested in working with me would most likely be interested in topics such as values in cognitive science, philosophy of science/metascience issues raised by cognitive science, and/or developing advanced skills in certain areas of computational social science.  
+I am a faculty affiliate of the graduate group in Public Health at UC Merced.  I'm open to co-advising students, but because I don't have professional affiliations with the field of public health I'm not currently recruiting students as a primary advisor.  
 
-Potential graduate students considering working with me should keep in mind that I am part of a graduate program in cognitive and information sciences, not philosophy; and, at the same time, I have a limited background in and connections to cognitive science.  I would recommend students have another, co-equal advisor who works more directly in cognitive science.  
+For potential Public Health graduate students, the most relevant aspects of my research concern (a) public scientific controversies, including topics such as vaccines, air pollution, and environmental justice, and/or (b) the use of computational or data-intensive methods across scientific fields.  As a philosopher of science and STS (science and technology studies) scholar, I'm primarily interested in the way politics and social controversy interact with issues of expertise and knowledge production.  Like any field of science, public health research doesn't exist in a vacuum.  It is influenced by its social context, and aims to have an influence on society in turn.  Philosophy of science and STS give us conceptual frameworks and empirical methods for understanding these ties of mutual influence.  Here are some examples of my work in these areas that are especially relevant to public health:  
 
-| [Information on the grad programs here](https://cogsci.ucmerced.edu/graduate-program)
-| [Apply to the grad programs here](https://graduatedivision.ucmerced.edu/prospective-students/apply-now)
+- ["Scientific controversies as proxy politics"](https://issues.org/scientific-controversies-as-proxy-politics/)
+- ["Legitimizing values in regulatory science"](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP3317)
 
-Here are some examples of topics that connect my research interests with cognitive science:  
+Between receiving my PhD and starting at UC Merced, I spent several years working as a data scientist in some science policy and academic settings.  Much of my empirical work these days makes use of data-intensive or computational methods, and I regularly teach [a cross-disciplinary graduate course](https://data-science-methods.github.io/) on some fundamental data science practices.  I've used bibliometrics, network analysis, and text mining methods in several studies in the past.  I also bring the frameworks of philosophy of science and STS to data science, with papers on, for example, the replication crisis and open science in environmental public health.  
 
-- Values and cognitive science
-	- Value-laden assumptions in cognitive science
-		- neurosexism, race science
-		- assumptions about practical reason in agent-based models
-		- assumptions about knowledge in machine learning
-	- Roles (actual and normative) of cognitive science in policy and public political discourse
-	- Ethical, legal, and social implications of cognitive science (including AI)
-	- Applying cognitive science methods to test models from ethics and the values and science literature
-	
-- Philosophy of science/metascience
-	- Replication and reproducibility
-	- Cognitive science as a data-intensive or model-based science
-	- Is cognitive science a discipline? Multidiscipline? Interdiscipline? 
-	- Cognitive science as a social practice
-	- Epistemic and pragmatic aims of cognitive science
-	- Relationship between cognitive science and other fields:  psychology, computer science, anthropology; but also biology, sociology, economics, physics
-
-<!-- 
-- Computational social science methods
-	- Sources of data
-		- administrative data, public records
-		- bibliometric data (journal article metadata)
-	- Analysis methods
-		- network analysis
-		- text analysis
- -->
-
-Written hastily on 12 February 2020.
+- ["Productivity and interdisciplinary impacts of Organized Research Units"](https://doi.org/10.1162/qss_a_00150) (text mining)
+- ["The P value plot does not provide evidence against air pollution hazards"](10.1097/EE9.0000000000000198) and ["Young’s P-Value Plot as an Agnogenic Technique"](https://social-epistemology.com/2022/03/16/youngs-p-value-plot-as-an-agnogenic-technique-dan-hicks/) (integrating technical and philosophical critique of a method used to manufacture doubt about air pollution)
+- ["Open science, the replication crisis, and environmental public health"](https://doi.org/10.1080/08989621.2021.1962713) (discussing the replication crisis and open science movement as they apply to environmental public health)
 
